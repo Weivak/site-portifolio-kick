@@ -4,6 +4,10 @@ Este é um exemplo de como deve ser o repositório
 Este é o link para download do arquivo de exportação para ser utilizado no plugin all-in-one WP migration:
 https://drive.google.com/file/d/16rtbCAHnx9biu1xtxjwOT-26pOvm8uL3/view?usp=sharing
 
+esse é o link: http://aulaformulario.updatevr.com.br/
+
+pdf: 
+
 Seção #1 
 
 Descrição:
